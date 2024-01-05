@@ -1,0 +1,31 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.bg{
+    background-image: url(GIF/404.gif);
+    height: 65vh;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.Error{
+    font-size: 12vh;
+    text-align: center;
+    font-weight: bolder;
+}
+.text-btn{
+    text-align: center;
+}
+.text{
+    padding: 10px;
+}
+.btn{
+    background-color: rgb(94, 255, 0);
+    width: 20vh;
+    height: 6vh;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 5vh;
+    font-weight: bold;
+}
